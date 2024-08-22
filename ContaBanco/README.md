@@ -7,6 +7,8 @@ Crie o projeto `ContaBanco` que receberá dados via terminal contendo as caracte
 |Agencia      |	Texto	| 067-8         |
 |Nome Cliente |	Texto	| MARIO ANDRADE |
 |Saldo	      | Decimal |	237.48      |
+
+
 Dentro do projeto, crie a classe `ContaTerminal.java` para realizar toda a codificação do nosso programa.
 
 >Revise sobre regras de declaração de variáveis
